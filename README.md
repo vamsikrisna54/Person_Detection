@@ -39,6 +39,21 @@ Poacher Detection:
 
 ### Output:-
 
+detecting people in aerial view of basketball court
+
+<img width="647" alt="image" src="https://github.com/vamsikrisna54/Person_Detection/assets/114807260/f65fca2f-dd86-4c5b-aa6b-0aafaa26118f">
+
+detecting people in a aerial view of beach
+
+<img width="647" alt="image" src="https://github.com/vamsikrisna54/Person_Detection/assets/114807260/f37e5e99-387b-4ce3-b451-a105243a56ad">
+
+detecting people in flooded areas
+
+https://github.com/vamsikrisna54/Person_Detection/assets/114807260/de8ffa7e-b185-4caf-81cb-c820506fa382
+
+
+
+
 
 
 
